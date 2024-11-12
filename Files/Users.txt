@@ -1,0 +1,3 @@
+simon, hej, 39, simon@hejmail.comsimon, lastman, 42, simon@lastman.dk
+casper, clem, 38, cas@good.dk
+lasse, heilbuth, 30, lasse@good.dk
